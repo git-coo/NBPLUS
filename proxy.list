@@ -6352,3 +6352,8 @@ DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
+
+# 代理规则
+DOMAIN-SUFFIX,revanced.net
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,poe.com
