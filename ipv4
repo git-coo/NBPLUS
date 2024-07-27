@@ -1,12 +1,9 @@
-cf.090227.xyz#线路1-默认
-ct.090227.xyz#线路2-电信优化
-cmcc.090227.xyz#线路3-移动优化
-cf.zhetengsha.eu.org#线路4-联通优化
+cf.090227.xyz#线路1
+ct.090227.xyz#线路2
+cmcc.090227.xyz#线路3
+cf.zhetengsha.eu.org#线路4
 cf.030101.xyz #线路5
 115155.xyz#线路6
 stock.hostmonit.com#线路7
 cn.xxxxxxxx.tk#备用1
-ct.xxxxxxxx.tk#备用2-电信优化
-cm.xxxxxxxx.tk#备用3-移动优化
-cu.xxxxxxxx.tk#备用4-联通优化
 
