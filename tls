@@ -1,10 +1,9 @@
 
-cf.090227.xyz#优化节点1
+*.cf.090227.xyz#优化节点1
 115155.xyz#优化节点2
 ip.sb#优化节点3
-ct.xxxxxxxx.tk:443#电信优化
-cm.xxxxxxxx.tk:443#移动优化
-cu.xxxxxxxx.tk:443#联通优化
+ct.090227.xyz#电信优化
+cmcc.090227.xyz#移动优化
 129.146.242.24:2053#美国1
 cf.cdn.bingbook.cn#美国2
 34.163.89.60:2053#法国1
